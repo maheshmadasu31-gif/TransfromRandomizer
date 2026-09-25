@@ -184,15 +184,6 @@ The current implementation randomizes Y rotation and uniform scale only.
 
 Scale values should be chosen carefully. For example, setting Min Scale greater than Max Scale may produce undesirable results.
 
-<b>📁 Suggested Repository Structure</b>
-
-Unity-Transform-Randomizer/
-├── README.md
-├── TransformRandomizer.cs
-└── images/
-    ├── randomizer-window.png
-    └── toolbar-menu.png
-
 <b>🛠️ Requirements</b>
 
 Unity
